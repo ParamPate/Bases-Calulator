@@ -1,9 +1,6 @@
 /* 
  * Param Patel
- * Mrs Karasinska 
- * Assignment 5 :Bases Calculator
- * Tuesday December 20
- * Program description: 
+ * 
  */
 class calculator 
 {
